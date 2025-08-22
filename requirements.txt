@@ -1,0 +1,15 @@
+matplotlib==3.7.1 done 
+mediapipe==0.10.0 done
+numpy==1.24.3 installed 1.26.4
+opencv-python==4.6.0.66 done
+pandas==2.0.1 installed 2.2.3
+Pillow==9.5.0 done
+python-dotenv==1.0.0 done
+scikit-learn==1.2.2 installed 1.5.2
+seaborn==0.12.2 done
+tensorflow==2.12.0
+----------------------
+added:
+pyautogui
+----------------------
+
